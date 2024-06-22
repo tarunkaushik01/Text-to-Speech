@@ -1,0 +1,19 @@
+body{
+        /* padding: 0px;/ */
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+div{
+    height: 500px;
+    width: 600px;
+    /* border: 2px solid black; */
+    text-align: center;
+}
+#text{
+    width: 500px;
+    height: 300px;
+    /* border: 2px solid black; */
+    
+}
